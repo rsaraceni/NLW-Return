@@ -6,13 +6,6 @@
 
 
 
-
-
-
-
-
-
-
 # Momentos importantes:
 
 ## Comunicação de um componente com o outro atravês de funções: 
